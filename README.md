@@ -1,1 +1,1 @@
-hello
+run_with_plugins -p hello
